@@ -1,0 +1,39 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "product": "A",
+      "date": "2024-06-01",
+      "sales": 150,
+      "revenue": 3000
+    },
+    {
+      "id": 2,
+      "product": "B",
+      "date": "2024-06-02",
+      "sales": 100,
+      "revenue": 2000
+    },
+    {
+      "id": 3,
+      "product": "C",
+      "date": "2024-06-03",
+      "sales": 200,
+      "revenue": 4000
+    },
+    {
+      "id": 4,
+      "product": "D",
+      "date": "2024-06-04",
+      "sales": 250,
+      "revenue": 5000
+    },
+    {
+      "id": 5,
+      "product": "E",
+      "date": "2024-06-05",
+      "sales": 300,
+      "revenue": 2000
+    }
+  ]
+}
